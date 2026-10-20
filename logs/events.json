@@ -1,0 +1,12 @@
+[
+  {"timestamp": "2026-10-10T10:00:01Z", "ip": "192.168.1.10", "method": "GET", "url": "/index.html", "status": 200},
+  {"timestamp": "2026-10-10T10:00:15Z", "ip": "10.0.0.5", "method": "GET", "url": "/admin/config.php", "status": 404},
+  {"timestamp": "2026-10-10T10:01:02Z", "ip": "192.168.1.20", "method": "POST", "url": "/login.php", "status": 200},
+  {"timestamp": "2026-10-10T10:02:10Z", "ip": "10.0.0.5", "method": "GET", "url": "/images/logo.png", "status": 200},
+  {"timestamp": "2026-10-10T10:03:45Z", "ip": "192.168.1.15", "method": "GET", "url": "/notfound.html", "status": 404},
+  {"timestamp": "2026-10-10T10:04:12Z", "ip": "10.0.0.5", "method": "GET", "url": "/admin/index.php", "status": 404},
+  {"timestamp": "2026-10-10T10:05:00Z", "ip": "192.168.1.10", "method": "GET", "url": "/about.html", "status": 200},
+  {"timestamp": "2026-10-10T10:05:30Z", "ip": "192.168.1.30", "method": "GET", "url": "/hidden/path", "status": 404},
+  {"timestamp": "2026-10-10T10:06:00Z", "ip": "10.0.0.5", "method": "GET", "url": "/test.php", "status": 404},
+  {"timestamp": "2026-10-10T10:07:11Z", "ip": "192.168.1.10", "method": "GET", "url": "/contact.html", "status": 200}
+]
